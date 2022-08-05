@@ -11,6 +11,11 @@ body {
     color:blanchedalmond
  }
 
+ strong
+ {
+   color: blueviolet;
+ }
+
 #container
 {
    width:70%;
