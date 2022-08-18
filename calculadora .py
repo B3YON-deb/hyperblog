@@ -6,7 +6,7 @@ def function (valor_dolar, nombre_moneda):
    print ("tienes " +dolares+ " dolares")
 menu = int(input ("""
 
-bienvenido al convertidor de monedas chido:
+bienvenido al convertidor de monedas genial :D:
 porfavor elige que moneda deseas convertir a dolar
 
 1: pesos colombianos
