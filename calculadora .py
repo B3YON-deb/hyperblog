@@ -9,7 +9,7 @@ menu = int(input ("""
 bienvenido al convertidor de monedas genial :D:
 porfavor elige que moneda deseas convertir a dolar
 
-1: pesos colombianos
+1: pesos colombi_anos
 2: pesos argentinos
 3: pesos mexicanos
 
