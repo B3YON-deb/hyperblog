@@ -24,3 +24,4 @@ Motor 4G63T
 >El motor se siguió usando y perfeccionando hasta la versión Evo IX, con tecnologías innovadoras firmadas por Mitsubishi, como el sistema de sincronización variable de válvulas MIVEC, y consiguió multitud de triunfos en rally de la mano de grandes pilotos como Tommi Makinen. 
 
 *creado por BEYONDER
+*incluye descripcion de motores mas usados en el jdm
