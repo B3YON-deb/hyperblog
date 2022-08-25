@@ -22,5 +22,3 @@ Motor 4G63T
 >Entre otros aspectos, en el motor 4G63T de 2 litros turboalimentado, se mejoraron las levas y se aligeraron los pistones, amén de un cambio en el sistema de inyección para aumentar el caudal de carburante y se perfeccionó el turbo. Finalmente, aunque el 'Pacto de caballeros' de las marcas japonesas fijaron los 280 CV como potencia límite, se sabe que el Evo V alcanzó más (igual que sus homólogos).
 
 >El motor se siguió usando y perfeccionando hasta la versión Evo IX, con tecnologías innovadoras firmadas por Mitsubishi, como el sistema de sincronización variable de válvulas MIVEC, y consiguió multitud de triunfos en rally de la mano de grandes pilotos como Tommi Makinen. 
-
-*creado por BEYONDER
